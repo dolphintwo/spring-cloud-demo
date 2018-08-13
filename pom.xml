@@ -12,6 +12,7 @@
         <module>spring-cloud-discovery</module>
         <module>spring-cloud-config</module>
         <module>spring-cloud-config-client</module>
+        <module>spring-cloud-hello</module>
     </modules>
 
     <parent>
