@@ -13,6 +13,7 @@
         <module>spring-cloud-config</module>
         <module>spring-cloud-config-client</module>
         <module>spring-cloud-hello</module>
+        <module>spring-cloud-bus</module>
     </modules>
 
     <parent>
